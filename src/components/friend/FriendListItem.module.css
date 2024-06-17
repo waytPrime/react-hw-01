@@ -1,6 +1,7 @@
-.offline{
-    color: red;
+.offline {
+  color: red;
 }
-.online{
-    color: green;
+.online {
+  color: green;
+  font-size: 14px;
 }
